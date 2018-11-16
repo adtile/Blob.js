@@ -1,3 +1,5 @@
+This is a fork from https://github.com/eligrey/Blob.js to add package.json.
+
 Blob.js
 ==============
 

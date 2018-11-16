@@ -1,0 +1,19 @@
+{
+  "name": "blob.js",
+  "version": "0.0.0",
+  "description": "cross-browser Blob implementation ",
+  "main": "Blob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eligrey/Blob.js.git"
+  },
+  "author": "Copyright © 2014 Eli Grey.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eligrey/Blob.js/issues"
+  },
+  "homepage": "https://github.com/eligrey/Blob.js#readme"
+}
